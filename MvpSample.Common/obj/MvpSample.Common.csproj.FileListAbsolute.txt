@@ -1,0 +1,10 @@
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.Common\bin\Debug\MvpSample.Common.dll
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.Common\bin\Debug\MvpSample.Common.pdb
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.Common\obj\Debug\MvpSample.Common.dll
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.Common\obj\Debug\MvpSample.Common.pdb
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.Common\bin\Debug\MvpSample.Common.dll
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.Common\bin\Debug\MvpSample.Common.pdb
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.Common\obj\Debug\MvpSample.Common.dll
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.Common\obj\Debug\MvpSample.Common.pdb

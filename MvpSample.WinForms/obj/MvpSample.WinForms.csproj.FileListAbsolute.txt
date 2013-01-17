@@ -1,0 +1,21 @@
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.AddCustomerWinformsView.resources
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.Properties.Resources.resources
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.csproj.GenerateResource.Cache
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\bin\Debug\MvpSample.WinForms.exe
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\bin\Debug\MvpSample.WinForms.pdb
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.exe
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.pdb
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\bin\Debug\MvpSample.Common.dll
+D:\MyWork\MVP on asp.net Sample\EnterpriseApplicationMvp\EnterpriseApplicationMvp\MvpSample.WinForms\bin\Debug\MvpSample.Common.pdb
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\bin\Debug\MvpSample.WinForms.exe
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\bin\Debug\MvpSample.WinForms.pdb
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\bin\Debug\MvpSample.Common.dll
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\bin\Debug\MvpSample.Common.pdb
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\obj\Debug\ResolveAssemblyReference.cache
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.Properties.Resources.resources
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.Views.AddCustomerView.resources
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.Views.CustomersView.resources
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.csproj.GenerateResource.Cache
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.exe
+C:\mc185104\Projects\csharp\MVPVM\MvpSample.WinForms\obj\Debug\MvpSample.WinForms.pdb

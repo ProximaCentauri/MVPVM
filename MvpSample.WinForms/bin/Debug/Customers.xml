@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<CustomersDataSet xmlns="http://tempuri.org/CustomersDataSet.xsd">
+  <CustomersDataTable>
+    <Name>Aviad</Name>
+    <Company>mPrest</Company>
+    <DataOfBirth>1980-01-01T06:00:00+08:00</DataOfBirth>
+  </CustomersDataTable>
+  <CustomersDataTable>
+    <Name>Michael</Name>
+    <Company>E4U</Company>
+    <DataOfBirth>1980-01-01T06:00:00+08:00</DataOfBirth>
+  </CustomersDataTable>
+  <CustomersDataTable>
+    <Name>Mark</Name>
+    <Company>Magen</Company>
+    <DataOfBirth>1979-06-06T05:00:00+08:00</DataOfBirth>
+  </CustomersDataTable>
+  <CustomersDataTable>
+    <Name>ss</Name>
+    <Company>1</Company>
+    <DataOfBirth>1980-01-01T06:00:00+08:00</DataOfBirth>
+  </CustomersDataTable>
+  <CustomersDataTable>
+    <Name />
+    <Company />
+    <DataOfBirth>1980-01-01T00:00:00+08:00</DataOfBirth>
+  </CustomersDataTable>
+</CustomersDataSet>
